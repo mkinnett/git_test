@@ -19,7 +19,7 @@ contract RibsToken is ERC721, Ownable {
     /**
     * @dev Constuctor to initialize the contract with a name and symbol. 
     */
-    constructor() ERC721("RibsToken", "RIBS") {}
+    constructor() ERC721("RibzToken", "RIBZ") {}
 
     /**
      * @dev Mint a whole rack of ribs as a single token
